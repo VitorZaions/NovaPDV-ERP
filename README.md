@@ -30,7 +30,6 @@ Este é um software com código fonte privado, esta página é a demonstração 
 ## O Nova
 
 ### Login
-Form tela de login para acesso aos módulos do nova.
 
 ![](https://i.imgur.com/vOzz1DI.png)
 
