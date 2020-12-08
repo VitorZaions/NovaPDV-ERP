@@ -1,5 +1,9 @@
-# ![Nova PDV - ERP](https://i.imgur.com/B9RMiVb.png)
-# WebApp
+# ![Nova PDV - ERP]
+<p align="center">
+  <img src="https://i.imgur.com/B9RMiVb.png" alt="Sublime's custom image"/>
+</p>
+
+# Nova
 <table>
 <tr>
 <td>
