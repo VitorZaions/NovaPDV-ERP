@@ -24,7 +24,6 @@ Este é um software com código fonte privado, essa página é uma demonstraçã
 - GunaUI
 - ZeusAutomação
 - MetroFramework
-- AwesomeIcons
 
 
 ## O Nova
