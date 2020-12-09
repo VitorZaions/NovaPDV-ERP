@@ -44,5 +44,5 @@ Este é um software com código fonte privado, essa página é uma demonstraçã
 
 ## Licença
 
-MIT © [Vitor Zaions ](https://github.com/VitorZaions/)
+MIT © [Vitor Zaions ](https://github.com/VitorZaions/NovaPDV-ERP/blob/main/license)
 
